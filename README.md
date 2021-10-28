@@ -1,2 +1,2 @@
 # fwa16chowdam
-[Heroku Server](https://saikishore-ch.github.io/fwa16chowdam/)
+[Heroku Server](https://fwa16chowdam.herokuapp.com/)
